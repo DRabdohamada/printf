@@ -1,5 +1,5 @@
 # printf
-This is a repository for the ALX team project for the printf.
+This a repository for the ALX team project for the printf.
 
 The printf() function prints output to stdout, according to format and other arguments passed to printf().
 The string format consists of two types of items - characters that will be printed to the screen,
